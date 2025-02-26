@@ -1,0 +1,10 @@
+models\ProduitConsommable.class
+services\GestionProduits.class
+concurrency\SauvegardeThread.class
+exceptions\NomInvalidException.class
+interfaces\Affichable.class
+models\Produit.class
+exceptions\NegativePriceException.class
+main\Main.class
+models\ProduitGenerique.class
+services\FileHandler.class

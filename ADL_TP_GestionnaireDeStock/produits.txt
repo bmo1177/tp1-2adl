@@ -1,0 +1,4 @@
+1,Ordinateur,85000.0,NULL
+2,Imprimante,25000.0,NULL
+3,Chocolat,250.0,2025-01-15
+4,Lait,120.0,2024-03-10
